@@ -1,5 +1,5 @@
 import Header from "../../component/Header/Header"
-import Hero from "../../component/Hero/HEro"
+import Hero from "../../component/Hero/Hero"
 import AlphaCard from "../../component/Card/AlphaCard"
 import Image1 from "../../assets/image1.jpg"
 import Image2 from "../../assets/image2.jpg"
